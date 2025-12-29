@@ -24,6 +24,9 @@ transformers>=4.23
 datasets>=2.14
 evaluate>=0.4
 accelerate>=0.20
+rouge_score
+nltk
+tensorboard
 
 # Optional: TensorFlow backend (some labs)
 # tensorflow>=2.13
