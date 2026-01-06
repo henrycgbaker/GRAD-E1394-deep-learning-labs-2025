@@ -55,3 +55,23 @@ Theory problem sets with solutions are available in [`problem_sets/`](problem_se
 - **PyTorch** — primary deep learning framework
 - **HuggingFace Transformers** — pre-trained models (Labs 9-10)
 - **TensorBoard** — training visualisation
+
+## Companion Notes
+
+Unofficial companion notes are available covering theoretical foundations and lecture content:
+
+### Deep Learning Notes
+📄 **[Download PDF](henry_notes_unofficial_accompaniment/deep_learning/main.pdf)** — Comprehensive deep learning notes (weeks 1-9)
+
+Covers: DNN fundamentals, backpropagation, CNNs, RNNs/LSTMs, attention mechanisms, transformers, and LLMs in practice.
+
+### Prerequisite Notes
+
+Also included are notes from prerequisite courses for additional context:
+
+| Subject | PDF | Topics |
+|---------|-----|--------|
+| Machine Learning | [Download](henry_notes_unofficial_accompaniment/machine_learning-CONTEXT/main.pdf) | Training, generalisation, kernels, trees, neural networks |
+| Maths for Data Science | [Download](henry_notes_unofficial_accompaniment/maths_for_data_science-FOUNDATIONAL/main.pdf) | Probability, calculus, random variables, statistics |
+
+LaTeX source files are available in [`henry_notes_unofficial_accompaniment/`](henry_notes_unofficial_accompaniment/) for reference or modification.
